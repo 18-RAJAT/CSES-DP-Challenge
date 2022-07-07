@@ -1,4 +1,6 @@
 # CSES-DP-Solutions
 
 
-![](images/cses.png)
+# Dynamic Programming
+
+* All the codes implemented here are written in C++...!!
