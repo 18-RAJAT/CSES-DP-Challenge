@@ -13,6 +13,7 @@ Output
 
 Print the length of the longest increasing subsequence.
 
+
 Constraints
 1≤n≤2⋅105
 1≤xi≤109
